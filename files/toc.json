@@ -1,0 +1,607 @@
+[
+  {
+    "title": "Введение",
+    "slug": "vvedenie",
+    "subchapters": []
+  },
+  {
+    "title": "Об авторе",
+    "slug": "ob-avtore",
+    "subchapters": [
+      {
+        "title": "Про здоровье",
+        "slug": "pro-zdorove",
+        "subchapters": []
+      },
+      {
+        "title": "Про деньги",
+        "slug": "pro-dengi",
+        "subchapters": []
+      },
+      {
+        "title": "Про отношения",
+        "slug": "pro-otnosheniya",
+        "subchapters": []
+      }
+    ]
+  },
+  {
+    "title": "Внимание!",
+    "slug": "vnimanie",
+    "subchapters": [
+      {
+        "title": "Ошибка выжившего",
+        "slug": "oshibka-vyzhivshego",
+        "subchapters": []
+      },
+      {
+        "title": "Ошибка недосказанности",
+        "slug": "oshibka-nedoskazannosti",
+        "subchapters": []
+      }
+    ]
+  },
+  {
+    "title": "Часть 1: счастлив с другими",
+    "slug": "chast-1-schastliv-s-drugimi",
+    "subchapters": [
+      {
+        "title": "1. Отношения должны быть взаимовыгодными",
+        "slug": "1-otnosheniya-dolzhny-byt-vzaimovygodnymi",
+        "subchapters": []
+      },
+      {
+        "title": "2. Улучшение жизни окружения улучшает жизнь самого человека",
+        "slug": "2-uluchshenie-zhizni-okruzheniya-uluchshaet-zhizn-samogo-cheloveka",
+        "subchapters": []
+      },
+      {
+        "title": "3. Не переносите профессиональные навыки на личную жизнь",
+        "slug": "3-ne-perenosite-professionalnye-navyki-na-lichnuyu-zhizn",
+        "subchapters": []
+      },
+      {
+        "title": "4. Не давайте непрошеных советов",
+        "slug": "4-ne-davayte-neproshenyh-sovetov",
+        "subchapters": []
+      },
+      {
+        "title": "5. Спрашивайте людей — комфортно ли им с вами",
+        "slug": "5-sprashivayte-lyudey----komfortno-li-im-s-vami",
+        "subchapters": []
+      },
+      {
+        "title": "6. Не бойтесь перехвалить",
+        "slug": "6-ne-boytes-perehvalit",
+        "subchapters": []
+      },
+      {
+        "title": "7. Не стесняйтесь рассказывать о том, что полезного вы сделали",
+        "slug": "7-ne-stesnyaytes-rasskazyvat-o-tom-chto-poleznogo-vy-sdelali",
+        "subchapters": []
+      },
+      {
+        "title": "8. Не копите недовольство",
+        "slug": "8-ne-kopite-nedovolstvo",
+        "subchapters": []
+      },
+      {
+        "title": "9. Как говорить с иррациональными людьми",
+        "slug": "9-kak-govorit-s-irracionalnymi-lyudmi",
+        "subchapters": []
+      },
+      {
+        "title": "10. Не переоценивайте значение негативных событий",
+        "slug": "10-ne-pereocenivayte-znachenie-negativnyh-sobytiy",
+        "subchapters": []
+      },
+      {
+        "title": "11. Не нужно быть идеальным — достаточно не быть козлом",
+        "slug": "11-ne-nuzhno-byt-idealnym----dostatochno-ne-byt-kozlom",
+        "subchapters": []
+      },
+      {
+        "title": "12. Не перевоспитывайте партнера",
+        "slug": "12-ne-perevospityvayte-partnera",
+        "subchapters": []
+      },
+      {
+        "title": "13. Люди не знают, когда им врут",
+        "slug": "13-lyudi-ne-znayut-kogda-im-vrut",
+        "subchapters": []
+      },
+      {
+        "title": "14. Секс, религия и алкоголь",
+        "slug": "14-seks-religiya-i-alkogol",
+        "subchapters": []
+      },
+      {
+        "title": "15. Не бойтесь закончить отношения",
+        "slug": "15-ne-boytes-zakonchit-otnosheniya",
+        "subchapters": []
+      },
+      {
+        "title": "16. Примеряйте ботинки другого человека",
+        "slug": "16-primeryayte-botinki-drugogo-cheloveka",
+        "subchapters": []
+      },
+      {
+        "title": "17. Токсичные дружбаны",
+        "slug": "17-toksichnye-druzhbany",
+        "subchapters": []
+      },
+      {
+        "title": "18. Сообщество «андреев»",
+        "slug": "18-soobshchestvo-andreev",
+        "subchapters": []
+      },
+      {
+        "title": "19. Просто блокирую и все",
+        "slug": "19-prosto-blokiruyu-i-vse",
+        "subchapters": []
+      }
+    ]
+  },
+  {
+    "title": "Часть 2: счастлив с собой",
+    "slug": "chast-2-schastliv-s-soboy",
+    "subchapters": [
+      {
+        "title": "Физическая энергия",
+        "slug": "fizicheskaya-energiya",
+        "subchapters": [
+          {
+            "title": "Невежество фатально",
+            "slug": "nevezhestvo-fatalno"
+          },
+          {
+            "title": "Рутина с душой!",
+            "slug": "rutina-s-dushoy"
+          },
+          {
+            "title": "От чего зависит уровень физической энергии",
+            "slug": "ot-chego-zavisit-uroven-fizicheskoy-energii"
+          },
+          {
+            "title": "Сон",
+            "slug": "son"
+          },
+          {
+            "title": "Лишний вес",
+            "slug": "lishniy-ves"
+          },
+          {
+            "title": "Питание, добавки и БАДы",
+            "slug": "pitanie-dobavki-i-bady"
+          },
+          {
+            "title": "Веганство, вегетарианство",
+            "slug": "veganstvo-vegetarianstvo"
+          },
+          {
+            "title": "Рабочее место",
+            "slug": "rabochee-mesto"
+          }
+        ]
+      },
+      {
+        "title": "Умственная энергия",
+        "slug": "umstvennaya-energiya",
+        "subchapters": [
+          {
+            "title": "Нейропластичность",
+            "slug": "neyroplastichnost"
+          },
+          {
+            "title": "Мотивация",
+            "slug": "motivaciya"
+          },
+          {
+            "title": "Продуктивность",
+            "slug": "produktivnost"
+          }
+        ]
+      },
+      {
+        "title": "Духовная энергия",
+        "slug": "duhovnaya-energiya",
+        "subchapters": [
+          {
+            "title": "Глобальные цели",
+            "slug": "globalnye-celi"
+          },
+          {
+            "title": "Философия стоиков",
+            "slug": "filosofiya-stoikov"
+          },
+          {
+            "title": "Медитация",
+            "slug": "meditaciya"
+          },
+          {
+            "title": "Психотерапия",
+            "slug": "psihoterapiya"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Часть 3: рациональное мышление",
+    "slug": "chast-3-racionalnoe-myshlenie",
+    "subchapters": [
+      {
+        "title": "Спасаем жизни",
+        "slug": "spasaem-zhizni",
+        "subchapters": []
+      },
+      {
+        "title": "«Сомневайся, сомневайся, сомневайся!»",
+        "slug": "somnevaysya-somnevaysya-somnevaysya",
+        "subchapters": []
+      },
+      {
+        "title": "Как Саакашвили научил меня критически мыслить",
+        "slug": "kak-saakashvili-nauchil-menya-kriticheski-myslit",
+        "subchapters": []
+      },
+      {
+        "title": "Криптовалюта: гении или мошенники",
+        "slug": "kriptovalyuta-genii-ili-moshenniki",
+        "subchapters": []
+      },
+      {
+        "title": "«Все врут»",
+        "slug": "vse-vrut",
+        "subchapters": []
+      },
+      {
+        "title": "Логические ошибки",
+        "slug": "logicheskie-oshibki",
+        "subchapters": [
+          {
+            "title": "1. Чайник Рассела",
+            "slug": "1-chaynik-rassela"
+          },
+          {
+            "title": "2. Апелляция к авторитету",
+            "slug": "2-apellyaciya-k-avtoritetu"
+          },
+          {
+            "title": "3. Соломенное Чучело",
+            "slug": "3-solomennoe-chuchelo"
+          },
+          {
+            "title": "4. Скользкий путь",
+            "slug": "4-skolzkiy-put"
+          },
+          {
+            "title": "5. «А сам какой?!»",
+            "slug": "5-a-sam-kakoy"
+          },
+          {
+            "title": "6. Неоправданные обобщения",
+            "slug": "6-neopravdannye-obobshcheniya"
+          },
+          {
+            "title": "7. Ошибка в ошибке",
+            "slug": "7-oshibka-v-oshibke"
+          },
+          {
+            "title": "8. Случай из жизни",
+            "slug": "8-sluchay-iz-zhizni"
+          },
+          {
+            "title": "9. Ошибка техасского снайпера",
+            "slug": "9-oshibka-tehasskogo-snaypera"
+          },
+          {
+            "title": "10. Ни один истинный шотландец",
+            "slug": "10-ni-odin-istinnyy-shotlandec"
+          },
+          {
+            "title": "11. Апелляция к природе",
+            "slug": "11-apellyaciya-k-prirode"
+          },
+          {
+            "title": "12. Апелляция к традиционности",
+            "slug": "12-apellyaciya-k-tradicionnosti"
+          },
+          {
+            "title": "13. Черное и белое",
+            "slug": "13-chernoe-i-beloe"
+          },
+          {
+            "title": "14. Переход на личности",
+            "slug": "14-perehod-na-lichnosti"
+          },
+          {
+            "title": "15. Специальные требования",
+            "slug": "15-specialnye-trebovaniya"
+          },
+          {
+            "title": "16. Ошибка игрока",
+            "slug": "16-oshibka-igroka"
+          },
+          {
+            "title": "17. Мнение масс",
+            "slug": "17-mnenie-mass"
+          },
+          {
+            "title": "18. Порочный круг",
+            "slug": "18-porochnyy-krug"
+          }
+        ]
+      },
+      {
+        "title": "Когнитивные искажения",
+        "slug": "kognitivnye-iskazheniya",
+        "subchapters": [
+          {
+            "title": "1. Эффект Даннинга-Крюгера",
+            "slug": "1-effekt-danninga-kryugera"
+          },
+          {
+            "title": "2. Эффект переоценки негативных событий",
+            "slug": "2-effekt-pereocenki-negativnyh-sobytiy"
+          },
+          {
+            "title": "3. Предпочтение нулевого риска",
+            "slug": "3-predpochtenie-nulevogo-riska"
+          },
+          {
+            "title": "4. Феномен Баадера-Майнхоф",
+            "slug": "4-fenomen-baadera-maynhof"
+          },
+          {
+            "title": "5. Иллюзия контроля",
+            "slug": "5-illyuziya-kontrolya"
+          },
+          {
+            "title": "6. Правило пикового момента",
+            "slug": "6-pravilo-pikovogo-momenta"
+          },
+          {
+            "title": "7. Потребность в завершении",
+            "slug": "7-potrebnost-v-zavershenii"
+          },
+          {
+            "title": "8. Недооценка бездействия",
+            "slug": "8-nedoocenka-bezdeystviya"
+          },
+          {
+            "title": "9. Эффект фрейминга",
+            "slug": "9-effekt-freyminga"
+          }
+        ]
+      },
+      {
+        "title": "Кто в доме хозяин? Спойлер: не вы",
+        "slug": "kto-v-dome-hozyain-spoyler-ne-vy",
+        "subchapters": []
+      },
+      {
+        "title": "Мозг мой — враг мой",
+        "slug": "mozg-moy----vrag-moy",
+        "subchapters": []
+      },
+      {
+        "title": "Сократ вам в помощь",
+        "slug": "sokrat-vam-v-pomoshch",
+        "subchapters": []
+      },
+      {
+        "title": "Гуглить гуру",
+        "slug": "guglit-guru",
+        "subchapters": []
+      },
+      {
+        "title": "Не все научные исследования одинаково полезны",
+        "slug": "ne-vse-nauchnye-issledovaniya-odinakovo-polezny",
+        "subchapters": []
+      },
+      {
+        "title": "Без паники!",
+        "slug": "bez-paniki",
+        "subchapters": []
+      },
+      {
+        "title": "Каким исследованиям можно доверять",
+        "slug": "kakim-issledovaniyam-mozhno-doveryat",
+        "subchapters": []
+      }
+    ]
+  },
+  {
+    "title": "Часть 4: запуск IT-бизнеса",
+    "slug": "chast-4-zapusk-it-biznesa",
+    "subchapters": [
+      {
+        "title": "Для тех, кто читает книгу с конца",
+        "slug": "dlya-teh-kto-chitaet-knigu-s-konca",
+        "subchapters": []
+      },
+      {
+        "title": "«Все сложно» vs «все просто»",
+        "slug": "vse-slozhno-vs-vse-prosto",
+        "subchapters": [
+          {
+            "title": "Все просто, даже когда все сложно",
+            "slug": "vse-prosto-dazhe-kogda-vse-slozhno"
+          },
+          {
+            "title": "Помни о смерти",
+            "slug": "pomni-o-smerti"
+          }
+        ]
+      },
+      {
+        "title": "У кого учиться бизнесу",
+        "slug": "u-kogo-uchitsya-biznesu",
+        "subchapters": [
+          {
+            "title": "«Ты вообще кто такой?»",
+            "slug": "ty-voobshche-kto-takoy"
+          }
+        ]
+      },
+      {
+        "title": "Идеи",
+        "slug": "idei",
+        "subchapters": [
+          {
+            "title": "Каждый год — на пенсию!",
+            "slug": "kazhdyy-god----na-pensiyu"
+          },
+          {
+            "title": "Откуда берутся идеи",
+            "slug": "otkuda-berutsya-idei"
+          },
+          {
+            "title": "Почему украсть идею — невозможно",
+            "slug": "pochemu-ukrast-ideyu----nevozmozhno"
+          },
+          {
+            "title": "Люди платят за пользу",
+            "slug": "lyudi-platyat-za-polzu"
+          },
+          {
+            "title": "Как сортировать идеи для бизнеса",
+            "slug": "kak-sortirovat-idei-dlya-biznesa"
+          },
+          {
+            "title": "Люди врут",
+            "slug": "lyudi-vrut"
+          },
+          {
+            "title": "Исследования рынка? Бегите!",
+            "slug": "issledovaniya-rynka-begite"
+          },
+          {
+            "title": "Личные счеты с исследованиями",
+            "slug": "lichnye-schety-s-issledovaniyami"
+          }
+        ]
+      },
+      {
+        "title": "Работа с дизайнерами",
+        "slug": "rabota-s-dizaynerami",
+        "subchapters": []
+      },
+      {
+        "title": "Работа с программистами",
+        "slug": "rabota-s-programmistami",
+        "subchapters": [
+          {
+            "title": "Завязывайте с чтением книг из прошлого века",
+            "slug": "zavyazyvayte-s-chteniem-knig-iz-proshlogo-veka"
+          },
+          {
+            "title": "Рынок труда",
+            "slug": "rynok-truda"
+          },
+          {
+            "title": "Правила работы с разработчиками",
+            "slug": "pravila-raboty-s-razrabotchikami"
+          }
+        ]
+      },
+      {
+        "title": "Запуск продукта",
+        "slug": "zapusk-produkta",
+        "subchapters": [
+          {
+            "title": "Был ли бизнес-план у Цукерберга?",
+            "slug": "byl-li-biznes-plan-u-cukerberga"
+          },
+          {
+            "title": "Быстрее, еще быстрее",
+            "slug": "bystree-eshche-bystree"
+          },
+          {
+            "title": "Нет жалоб? Это плохо!",
+            "slug": "net-zhalob-eto-ploho"
+          },
+          {
+            "title": "Боже, что это?!",
+            "slug": "bozhe-chto-eto"
+          },
+          {
+            "title": "А давайте поразмышляем — как пошатнуть Apple",
+            "slug": "a-davayte-porazmyshlyaem----kak-poshatnut-apple"
+          },
+          {
+            "title": "Сначала сделай, потом спроси, что не так",
+            "slug": "snachala-sdelay-potom-sprosi-chto-ne-tak"
+          },
+          {
+            "title": "Хотите отбить клиентов? Задирайте цены!",
+            "slug": "hotite-otbit-klientov-zadirayte-ceny"
+          }
+        ]
+      },
+      {
+        "title": "Маркетинг",
+        "slug": "marketing",
+        "subchapters": [
+          {
+            "title": "В «Яблочко»",
+            "slug": "v-yablochko"
+          },
+          {
+            "title": "Интроверты, не бросайте книжку!",
+            "slug": "introverty-ne-brosayte-knizhku"
+          },
+          {
+            "title": "Выйти из тени, чтобы ошибаться",
+            "slug": "vyyti-iz-teni-chtoby-oshibatsya"
+          },
+          {
+            "title": "В страданиях нет никакого смысла: Маск vs Безос",
+            "slug": "v-stradaniyah-net-nikakogo-smysla-mask-vs-bezos"
+          },
+          {
+            "title": "Книги про маркетинг",
+            "slug": "knigi-pro-marketing"
+          },
+          {
+            "title": "Любите хейтеров",
+            "slug": "lyubite-heyterov"
+          },
+          {
+            "title": "Как вывести статью в топ",
+            "slug": "kak-vyvesti-statyu-v-top"
+          },
+          {
+            "title": "Как вдохновить читателей на комментарии",
+            "slug": "kak-vdohnovit-chitateley-na-kommentarii"
+          },
+          {
+            "title": "Пушкин в шоке",
+            "slug": "pushkin-v-shoke"
+          }
+        ]
+      },
+      {
+        "title": "Разрешите себе...",
+        "slug": "razreshite-sebe",
+        "subchapters": []
+      }
+    ]
+  },
+  {
+    "title": "Заключение",
+    "slug": "zaklyuchenie",
+    "subchapters": []
+  },
+  {
+    "title": "Послесловие Юлии",
+    "slug": "posleslovie-yulii",
+    "subchapters": []
+  },
+  {
+    "title": "Благодарности Никиты",
+    "slug": "blagodarnosti-nikity",
+    "subchapters": []
+  }
+]
